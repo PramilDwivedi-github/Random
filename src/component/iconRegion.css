@@ -1,0 +1,32 @@
+#iconReg{
+    display: flex;
+    flex-wrap: wrap;
+    background: #0099ff;
+    justify-content:center ;
+}
+
+.ic{
+    width:300px;
+    height: max-content;
+}
+
+.ic .round{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    background: rgb(226, 223, 223);
+}
+
+.round .reactic{
+    width: 90%;
+    height:80%;
+    padding: 2px;
+    color: #0099ff;
+}
+
+.ic h3{
+    color:yellow;
+}
+.ic h4{
+    color:whitesmoke;
+}

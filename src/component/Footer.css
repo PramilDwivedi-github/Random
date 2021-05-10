@@ -1,0 +1,57 @@
+#foot{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background: #0099ff;
+}
+
+#foot1{
+    display: flex;
+}
+
+#foot2{
+    display: flex;
+}
+
+#foot2 div{
+    color:white;
+
+}
+
+#copyright{
+    align-self: flex-end;
+    flex: 2;
+}
+#LegalInfo{
+    align-self: flex-end;
+    flex: 1;
+}
+
+#foot1 .footCard{
+    width: fit-content;
+    height: fit-content;
+    margin:20px;
+}
+
+.footCard h4{
+    color:yellow;
+}
+.footCard div{
+    color:white;
+}
+.footCard h3{
+    color: white;
+}
+.footCard input{
+    border-radius: 3px;
+    border:yellow 2px solid;
+}
+.contactIcons{
+    color:yellow;
+}
+.socialMedia{
+    color: yellow;
+    margin: 4px;
+}
+
+

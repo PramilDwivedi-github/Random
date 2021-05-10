@@ -1,0 +1,46 @@
+#head{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background: #0099ff;
+}
+
+#nav{
+    display: flex;
+    flex-wrap: wrap;
+}
+ #nav1{
+    display: flex;
+    flex-wrap: wrap;
+    flex:1;
+}
+ #nav2{
+    display: flex;
+    flex-wrap: wrap;
+ }  
+
+#Logo{
+    color: whitesmoke;
+}
+h6{
+    margin:4px;
+    color:whitesmoke;
+}
+
+#about{
+     display: flex;
+    /* flex-wrap: wrap;  */
+    /* flex-direction: column; */
+    justify-content: center;
+}
+#about h2{
+    color:rgb(219, 219, 24);
+}
+
+#about h6{
+    color:whitesmoke
+}
+#head #wave1{
+    background:white;
+    height: 150px;
+}
